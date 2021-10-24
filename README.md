@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kerimavci
 - 👀 I’m interested in software
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kerim.avci.611@gmail.com
 
 <!---
